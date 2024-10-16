@@ -62,3 +62,4 @@ Once School Type column was included, the code worked.
 References:
 https://realpython.com/pandas-merge-join-and-concat/
 https://www.programiz.com/python-programming/pandas/merge
+https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
